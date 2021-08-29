@@ -18,6 +18,10 @@ const Footer = () => {
             akriti1161999@gmail.com
           </LinkItem>
         </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Address</LinkTitle>
+          <LinkItem href="https://goo.gl/maps/fCkSQcUgYVC3c2WX7">Patna,Bihar,India</LinkItem>
+        </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
