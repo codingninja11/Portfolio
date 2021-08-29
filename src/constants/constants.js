@@ -31,8 +31,8 @@ export const projects = [
       description: "This is a code repository for the this portfolio website. The purpose of this Portfolio is for compilation of academic work and other forms of educational evidence.",
       image: '/images/4.png',
       tags: ['NextJs' , 'React', 'CSS', 'Styled-components'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
+      source: 'https://github.com/codingninja11/Portfolio',
+      visit: 'https://portfolio-sigma-blue.vercel.app/',
       id: 3,
     },
   ];
