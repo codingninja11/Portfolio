@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a self-motivated person and I try to exceed my superior's expectations with high-quality work. Being a fast learner, I quickly pick up knowledge related to my project.</SectionText>
+      I am a self-motivated person and I try to exceed my superiors expectations with high-quality work. Being a fast learner, I quickly pick up knowledge related to my project.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
